@@ -2,7 +2,7 @@
 # What is this?
 - this is a JavaScript library to layout up to 5 images automatically
 # feature
-- You an layout up to 5 images into single square box.
+- You can layout up to 5 images into single square box.
 # Skillset
 - Jquery
 
